@@ -1,0 +1,14 @@
+*.jl.*.cov
+*.jl.cov
+*.jl.mem
+*.pb.gz
+/docs/build/
+
+.history
+.vscode
+.DS_Store
+Manifest.toml
+*.pdf
+*.jld2
+__pycache__
+.ipynb_checkpoints
